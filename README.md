@@ -8,6 +8,4 @@
 - :bug: My skills: Vue2/3, wechat Mini-Programs, uni-app, NodeJS, React & Svelt (not skilled right now :joy:)
 - 📫 How to reach me: **email**:`wenbinchen150@icloud.com`
 
-![Why-Not-GitHub's GitHub stats](https://github-readme-stats.vercel.app/api?username=Why-Not-GitHub&theme=vue&show_icons=true)
-
 
